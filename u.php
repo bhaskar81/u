@@ -1,3 +1,3 @@
 <?php
-echo 'u123.php<br />';
+echo 'u.php<br />';
 ?>
